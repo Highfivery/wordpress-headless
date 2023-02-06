@@ -9,6 +9,17 @@
           "fontFamily": "-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen-Sans,Ubuntu,Cantarell,Helvetica Neue,sans-serif",
           "slug": "system-fonts",
           "name": "System fonts"
+        },
+        {
+          "fontFamily": "\"Quicksand\"",
+          "slug": "quicksand",
+          "name": "Quicksand",
+          "fontFace": [
+            {
+              "fontFamily": "Quicksand",
+              "src": ["file:./fonts/Quicksand/Quicksand-VariableFont_wght.ttf"]
+            }
+          ]
         }
       ]
     }

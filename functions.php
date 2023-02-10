@@ -9,3 +9,10 @@
  * @since Headless 1.0.0
  */
 
+ add_action( 'init', function() {
+  register_nav_menus(
+    array(
+      'primary-menu' => __( 'Primary Menu' ),
+     )
+   );
+} );

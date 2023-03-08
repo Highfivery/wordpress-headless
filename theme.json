@@ -20,6 +20,17 @@
               "src": ["file:./fonts/Quicksand/Quicksand-VariableFont_wght.ttf"]
             }
           ]
+        },
+        {
+          "fontFamily": "\"Vidaloka\"",
+          "slug": "vidaloka",
+          "name": "Vidaloka",
+          "fontFace": [
+            {
+              "fontFamily": "Vidaloka",
+              "src": ["file:./fonts/Vidaloka/Vidaloka-Regular.ttf"]
+            }
+          ]
         }
       ]
     }

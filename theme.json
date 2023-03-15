@@ -17,7 +17,33 @@
           "fontFace": [
             {
               "fontFamily": "Quicksand",
-              "src": ["file:./fonts/Quicksand/Quicksand-VariableFont_wght.ttf"]
+              "src": ["file:./fonts/Quicksand/static/Quicksand-Bold.ttf"],
+              "fontWeight": "700",
+              "fontStyle": "normal"
+            },
+            {
+              "fontFamily": "Quicksand",
+              "src": ["file:./fonts/Quicksand/static/Quicksand-Light.ttf"],
+              "fontWeight": "300",
+              "fontStyle": "normal"
+            },
+            {
+              "fontFamily": "Quicksand",
+              "src": ["file:./fonts/Quicksand/static/Quicksand-Medium.ttf"],
+              "fontWeight": "500",
+              "fontStyle": "normal"
+            },
+            {
+              "fontFamily": "Quicksand",
+              "src": ["file:./fonts/Quicksand/static/Quicksand-Regular.ttf"],
+              "fontWeight": "400",
+              "fontStyle": "normal"
+            },
+            {
+              "fontFamily": "Quicksand",
+              "src": ["file:./fonts/Quicksand/static/Quicksand-SemiBold.ttf"],
+              "fontWeight": "600",
+              "fontStyle": "normal"
             }
           ]
         },
